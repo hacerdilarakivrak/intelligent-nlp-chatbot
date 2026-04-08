@@ -106,13 +106,6 @@ The complete project, including preprocessing, model training, and interface dev
 
 ---
 
-## 📌 Notes
-
-* The model is trained using NLP preprocessing techniques such as tokenization and padding
-* A fixed input length (`max_len = 7`) is used for consistency
-* Designed as a lightweight and efficient intelligent chatbot system
-
----
 
 ## 👩‍💻 Author
 
