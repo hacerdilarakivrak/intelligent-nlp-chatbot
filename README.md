@@ -33,6 +33,18 @@ It classifies user inputs into predefined intents and generates appropriate resp
 
 ---
 
+## 📂 Dataset
+
+A custom dataset was fully designed and manually created from scratch by the author for intent classification tasks. No pre-existing datasets were used.
+
+The dataset consists of multiple intent categories, each containing approximately 50 diverse example sentences to ensure robustness and generalization. In total, the dataset includes around 400 samples.
+
+To maintain fairness and avoid bias, the dataset was carefully balanced across all intent classes. The data was split into training (80%) and testing (20%) sets for reliable model evaluation.
+
+This approach provides full control over the data and ensures that the model is trained on task-specific, high-quality examples.
+
+---
+
 ## 📂 Project Structure
 
 ```
